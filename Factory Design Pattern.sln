@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Design Pattern", "Factory Design Pattern.csproj", "{D3102395-E811-461C-A4EB-F05E5DA97997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3102395-E811-461C-A4EB-F05E5DA97997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3102395-E811-461C-A4EB-F05E5DA97997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3102395-E811-461C-A4EB-F05E5DA97997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3102395-E811-461C-A4EB-F05E5DA97997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE72707B-7C58-486F-99CB-04A501B7D469}
+	EndGlobalSection
+EndGlobal
